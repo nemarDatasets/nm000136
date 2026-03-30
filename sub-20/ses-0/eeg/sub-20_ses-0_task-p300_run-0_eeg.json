@@ -1,0 +1,36 @@
+{
+	"TaskName": "p300",
+	"Manufacturer": "Compumedics Neuroscan",
+	"PowerLineFrequency": 50.0,
+	"SamplingFrequency": 1000.0,
+	"SoftwareFilters": "n/a",
+	"RecordingDuration": 664.999,
+	"RecordingType": "continuous",
+	"EEGReference": "right mastoid (M1)",
+	"EEGGround": "forehead",
+	"EEGPlacementScheme": "10-05 system",
+	"EEGChannelCount": 62,
+	"EOGChannelCount": 1,
+	"ECGChannelCount": 0,
+	"EMGChannelCount": 0,
+	"TriggerChannelCount": 0,
+	"ManufacturersModelName": "Neuroscan Quik-Cap 65-ch, SynAmps2",
+	"SoftwareVersions": "n/a",
+	"HardwareFilters": {
+		"HardwareFilter": {
+			"highpass_time_constant_s": 10
+		}
+	},
+	"TaskDescription": "Multi-paradigm BCI (MI/ME/SSVEP/P300). P300: row/column speller with 4L and 5L grid sizes.",
+	"Instructions": "n/a",
+	"CogAtlasID": "https://www.cognitiveatlas.org/task/id/tsk_GxjZBNiJorj1K/",
+	"InstitutionName": "Shanghai Jiao Tong University",
+	"InstitutionAddress": "CN",
+	"InstitutionalDepartmentName": "n/a",
+	"CapManufacturer": "n/a",
+	"CapManufacturersModelName": "n/a",
+	"SubjectArtefactDescription": "n/a",
+	"DeviceSerialNumber": "n/a",
+	"Description": "EEG recording.",
+	"MISCChannelCount": 2
+}
