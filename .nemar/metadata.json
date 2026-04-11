@@ -1,6 +1,11 @@
 {
   "version": "2.0",
-  "pipeline_stage": "validated",
+  "pipeline_stage": "enriched",
+  "title": "Guttmann-Flury et al. 2025 (P300) — Dataset combining EEG, eye-tracking, and high-speed video for ocular activity analysis across BCI paradigms",
+  "description": "A multimodal P300 speller dataset combining EEG and eye-tracking recordings from 31 healthy participants across 3 sessions each. The dataset comprises 2,520 trials from a row-column visual speller paradigm with 64-channel EEG (plus 1 EOG and 1 stimulus channel, 66 channels total) acquired at 1000 Hz, designed to support brain-computer interface research and ocular activity analysis during P300-based communication tasks.",
+  "methods_description": "EEG data were acquired using a Neuroscan Quik-Cap 65-channel system with SynAmps2 amplifier at 1000 Hz sampling rate. The montage followed the standard 1005 electrode placement with 64 EEG channels, 1 EOG channel, and 1 stimulus channel (66 channels total). Reference electrode was placed at the right mastoid (M1) with ground at the forehead. Ag/AgCl sensors were used with online high-pass filtering (10 s time constant). The P300 paradigm employed a row-column speller with visual row-column flash stimulation at 50 Hz line frequency.",
+  "license": "CC0",
+  "dataset_type": "derivative",
   "authors": {
     "Eva Guttmann-Flury": {
       "orcid": "0000-0002-8241-1713"
@@ -8,6 +13,44 @@
     "Xinjun Sheng": {},
     "Xiangyang Zhu": {}
   },
+  "keywords": [
+    {
+      "term": "EEG"
+    },
+    {
+      "term": "P300"
+    },
+    {
+      "term": "Event-Related Potentials, P300",
+      "subject_scheme": "MeSH",
+      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D018913"
+    },
+    {
+      "term": "brain-computer interfaces"
+    },
+    {
+      "term": "eye tracking"
+    },
+    {
+      "term": "speller paradigm"
+    },
+    {
+      "term": "visual evoked potentials"
+    },
+    {
+      "term": "healthy"
+    },
+    {
+      "term": "communication"
+    },
+    {
+      "term": "ERP"
+    },
+    {
+      "term": "multimodal"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.1038/s41597-025-04861-9",
@@ -35,14 +78,11 @@
       "relation_type": "References"
     }
   ],
-  "title": "Guttmann-Flury et al. 2025 — Eye-BCI P300 dataset",
-  "license": "CC0",
-  "dataset_type": "derivative",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "EEG Dataset",
   "modalities": [
     "eeg"
   ],
-  "resource_type_specific": "EEG Dataset",
   "sizes": [
     "7.9 GB (64 files)"
   ],
@@ -53,33 +93,5 @@
     ".yaml",
     ".yml"
   ],
-  "description": "A multimodal P300 speller dataset combining EEG, eye-tracking, and high-speed video recordings from 31 healthy participants across 3 sessions each. The dataset comprises 2,520 trials from a row-column visual speller paradigm with 64-channel EEG recordings at 1000 Hz sampling rate, designed to support brain-computer interface research and ocular activity analysis.",
-  "methods_description": "EEG data were acquired using a Neuroscan Quik-Cap 65-channel system with SynAmps2 amplifier at 1000 Hz sampling rate. Sixty-four EEG channels were recorded using Ag/AgCl sensors in the standard 1005 montage, referenced to the right mastoid (M1) with ground at the forehead. Additional channels included 1 EOG and 1 stimulus channel. Online high-pass filtering was applied with a 10-second time constant. Participants completed a row-column P300 speller task with 4L and 5L grid sizes in a laboratory setting.",
-  "keywords": [
-    {
-      "term": "EEG"
-    },
-    {
-      "term": "P300"
-    },
-    {
-      "term": "Event-Related Potentials, P300",
-      "subject_scheme": "MeSH",
-      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D018913"
-    },
-    {
-      "term": "brain-computer interfaces"
-    },
-    {
-      "term": "speller paradigm"
-    },
-    {
-      "term": "eye-tracking"
-    },
-    {
-      "term": "visual attention"
-    }
-  ],
-  "source_hash": "ec9a74ffe4fcca8b0a1382016564ee472b04e70a18006f240913ff8d0a17b455"
+  "source_hash": "cbdb94626d08bfa4bb8effd2a8cf4aadb217fde0796ae7637656d56ed9c8ecc2"
 }
