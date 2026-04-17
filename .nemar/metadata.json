@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "enriched",
   "title": "Guttmann-Flury et al. 2025 (P300) — Dataset combining EEG, eye-tracking, and high-speed video for ocular activity analysis across BCI paradigms",
-  "description": "A multimodal P300 speller dataset combining EEG, eye-tracking, and high-speed video recordings from 31 healthy participants across 3 sessions each. The dataset comprises 2,520 trials of row-column visual stimuli with target and non-target classifications, acquired at 1000 Hz using a 64-channel Neuroscan system. This resource enables investigation of ocular activity patterns and their relationship to event-related potentials in brain-computer interface applications.",
-  "methods_description": "EEG data were acquired using a Neuroscan Quik-Cap 65-channel system with SynAmps2 amplifier at 1000 Hz sampling rate. The montage followed the standard 1005 electrode placement with 64 EEG channels, 1 EOG channel, and 1 stimulus channel. Reference electrode was placed at the right mastoid (M1) with ground at the forehead. Ag/AgCl sensors were used with online high-pass filtering (10 s time constant). P300 paradigm employed row-column visual flashing with 4L and 5L grid sizes in a speller task. Concurrent eye-tracking and high-speed video were recorded to capture ocular activity during the task.",
+  "description": "A multimodal P300 speller dataset combining EEG and eye-tracking recordings from 31 healthy participants across 3 sessions each. The dataset comprises 2,520 trials from a row-column visual speller paradigm with 64-channel EEG recordings at 1000 Hz sampling rate, designed to investigate ocular activity patterns and their relationship to brain-computer interface performance across multiple BCI paradigms.",
+  "methods_description": "EEG data were acquired using a Neuroscan Quik-Cap 65-channel system with SynAmps2 amplifier at 1000 Hz sampling rate. The montage followed the standard 1005 electrode placement with 64 EEG channels, 1 EOG channel, and 1 stimulus channel. Reference electrode was placed at the right mastoid (M1) with ground at the forehead. Ag/AgCl sensors were used with online high-pass filtering (10 s time constant). The P300 paradigm employed a row-column speller with visual stimulus presentation at 50 Hz line frequency.",
   "license": "CC0",
   "dataset_type": "derivative",
   "authors": {
@@ -21,28 +21,34 @@
       "term": "Event-Related Potentials, P300",
       "subject_scheme": "MeSH",
       "scheme_uri": "https://id.nlm.nih.gov/mesh/",
-      "value_uri": "https://id.nlm.nih.gov/mesh/D018913"
+      "value_uri": "http://id.nlm.nih.gov/mesh/D018913"
     },
     {
-      "term": "P300"
+      "term": "brain-computer interfaces"
     },
     {
-      "term": "Brain-Computer Interfaces"
+      "term": "eye tracking"
     },
     {
-      "term": "eye-tracking"
+      "term": "ocular activity"
+    },
+    {
+      "term": "eye movement"
     },
     {
       "term": "speller paradigm"
     },
     {
-      "term": "multimodal neuroimaging"
+      "term": "visual attention"
+    },
+    {
+      "term": "Healthy"
+    },
+    {
+      "term": "ERP"
     },
     {
       "term": "communication"
-    },
-    {
-      "term": "ocular activity"
     }
   ],
   "related_identifiers": [
@@ -83,9 +89,10 @@
   "formats": [
     ".bdf",
     ".json",
+    ".md",
     ".tsv",
     ".yaml",
     ".yml"
   ],
-  "source_hash": "dacb3a8c705dddb4da91389651b57d6cf575f4ba320752667d315ce19442a035"
+  "source_hash": "868fe3777193e2d7a848dfcf704a9116407a47e4e79ffcef396c969baf349e24"
 }
