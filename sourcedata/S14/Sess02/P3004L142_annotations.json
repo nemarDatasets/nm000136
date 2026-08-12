@@ -1,0 +1,2402 @@
+[
+  {
+    "onset": 28.097,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 1,
+    "trial_list": "1",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3300,
+    "event_code": 1,
+    "phase": "fixation"
+  },
+  {
+    "onset": 30.097,
+    "duration": 4.0,
+    "description": "left_hand",
+    "trial_count": 1,
+    "trial_list": "1",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3300,
+    "event_code": 1,
+    "phase": "imagery"
+  },
+  {
+    "onset": 34.097,
+    "duration": 3.3,
+    "description": "rest",
+    "trial_count": 1,
+    "trial_list": "1",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3300,
+    "event_code": 1,
+    "phase": "rest"
+  },
+  {
+    "onset": 34.264,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 2,
+    "trial_list": "4",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3200,
+    "event_code": 1,
+    "phase": "fixation"
+  },
+  {
+    "onset": 36.264,
+    "duration": 4.0,
+    "description": "left_hand",
+    "trial_count": 2,
+    "trial_list": "4",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3200,
+    "event_code": 1,
+    "phase": "imagery"
+  },
+  {
+    "onset": 40.264,
+    "duration": 3.2,
+    "description": "rest",
+    "trial_count": 2,
+    "trial_list": "4",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3200,
+    "event_code": 1,
+    "phase": "rest"
+  },
+  {
+    "onset": 42.246,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 3,
+    "trial_list": "8",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2700,
+    "event_code": 2,
+    "phase": "fixation"
+  },
+  {
+    "onset": 44.246,
+    "duration": 4.0,
+    "description": "right_hand",
+    "trial_count": 3,
+    "trial_list": "8",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2700,
+    "event_code": 2,
+    "phase": "imagery"
+  },
+  {
+    "onset": 48.246,
+    "duration": 2.7,
+    "description": "rest",
+    "trial_count": 3,
+    "trial_list": "8",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2700,
+    "event_code": 2,
+    "phase": "rest"
+  },
+  {
+    "onset": 48.414,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 4,
+    "trial_list": "6",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2900,
+    "event_code": 2,
+    "phase": "fixation"
+  },
+  {
+    "onset": 50.414,
+    "duration": 4.0,
+    "description": "right_hand",
+    "trial_count": 4,
+    "trial_list": "6",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2900,
+    "event_code": 2,
+    "phase": "imagery"
+  },
+  {
+    "onset": 54.414,
+    "duration": 2.9,
+    "description": "rest",
+    "trial_count": 4,
+    "trial_list": "6",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2900,
+    "event_code": 2,
+    "phase": "rest"
+  },
+  {
+    "onset": 56.296,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 5,
+    "trial_list": "9",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3700,
+    "event_code": 3,
+    "phase": "fixation"
+  },
+  {
+    "onset": 58.296,
+    "duration": 4.0,
+    "description": "event_3",
+    "trial_count": 5,
+    "trial_list": "9",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3700,
+    "event_code": 3,
+    "phase": "imagery"
+  },
+  {
+    "onset": 62.296,
+    "duration": 3.7,
+    "description": "rest",
+    "trial_count": 5,
+    "trial_list": "9",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3700,
+    "event_code": 3,
+    "phase": "rest"
+  },
+  {
+    "onset": 62.463,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 6,
+    "trial_list": "10",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3600,
+    "event_code": 3,
+    "phase": "fixation"
+  },
+  {
+    "onset": 64.463,
+    "duration": 4.0,
+    "description": "event_3",
+    "trial_count": 6,
+    "trial_list": "10",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3600,
+    "event_code": 3,
+    "phase": "imagery"
+  },
+  {
+    "onset": 68.463,
+    "duration": 3.6,
+    "description": "rest",
+    "trial_count": 6,
+    "trial_list": "10",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3600,
+    "event_code": 3,
+    "phase": "rest"
+  },
+  {
+    "onset": 69.813,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 7,
+    "trial_list": "5",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2600,
+    "event_code": 4,
+    "phase": "fixation"
+  },
+  {
+    "onset": 71.813,
+    "duration": 4.0,
+    "description": "event_4",
+    "trial_count": 7,
+    "trial_list": "5",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2600,
+    "event_code": 4,
+    "phase": "imagery"
+  },
+  {
+    "onset": 75.813,
+    "duration": 2.6,
+    "description": "rest",
+    "trial_count": 7,
+    "trial_list": "5",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2600,
+    "event_code": 4,
+    "phase": "rest"
+  },
+  {
+    "onset": 75.979,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 8,
+    "trial_list": "3",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2900,
+    "event_code": 4,
+    "phase": "fixation"
+  },
+  {
+    "onset": 77.979,
+    "duration": 4.0,
+    "description": "event_4",
+    "trial_count": 8,
+    "trial_list": "3",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2900,
+    "event_code": 4,
+    "phase": "imagery"
+  },
+  {
+    "onset": 81.979,
+    "duration": 2.9,
+    "description": "rest",
+    "trial_count": 8,
+    "trial_list": "3",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2900,
+    "event_code": 4,
+    "phase": "rest"
+  },
+  {
+    "onset": 83.546,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 9,
+    "trial_list": "2",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2800,
+    "event_code": 5,
+    "phase": "fixation"
+  },
+  {
+    "onset": 85.546,
+    "duration": 4.0,
+    "description": "event_5",
+    "trial_count": 9,
+    "trial_list": "2",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2800,
+    "event_code": 5,
+    "phase": "imagery"
+  },
+  {
+    "onset": 89.546,
+    "duration": 2.8,
+    "description": "rest",
+    "trial_count": 9,
+    "trial_list": "2",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2800,
+    "event_code": 5,
+    "phase": "rest"
+  },
+  {
+    "onset": 89.713,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 10,
+    "trial_list": "7",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3300,
+    "event_code": 5,
+    "phase": "fixation"
+  },
+  {
+    "onset": 91.713,
+    "duration": 4.0,
+    "description": "event_5",
+    "trial_count": 10,
+    "trial_list": "7",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3300,
+    "event_code": 5,
+    "phase": "imagery"
+  },
+  {
+    "onset": 95.713,
+    "duration": 3.3,
+    "description": "rest",
+    "trial_count": 10,
+    "trial_list": "7",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3300,
+    "event_code": 5,
+    "phase": "rest"
+  },
+  {
+    "onset": 98.146,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 11,
+    "trial_list": "8",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3700,
+    "event_code": 6,
+    "phase": "fixation"
+  },
+  {
+    "onset": 100.146,
+    "duration": 4.0,
+    "description": "event_6",
+    "trial_count": 11,
+    "trial_list": "8",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3700,
+    "event_code": 6,
+    "phase": "imagery"
+  },
+  {
+    "onset": 104.146,
+    "duration": 3.7,
+    "description": "rest",
+    "trial_count": 11,
+    "trial_list": "8",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3700,
+    "event_code": 6,
+    "phase": "rest"
+  },
+  {
+    "onset": 104.312,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 12,
+    "trial_list": "1",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3900,
+    "event_code": 6,
+    "phase": "fixation"
+  },
+  {
+    "onset": 106.312,
+    "duration": 4.0,
+    "description": "event_6",
+    "trial_count": 12,
+    "trial_list": "1",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3900,
+    "event_code": 6,
+    "phase": "imagery"
+  },
+  {
+    "onset": 110.312,
+    "duration": 3.9,
+    "description": "rest",
+    "trial_count": 12,
+    "trial_list": "1",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3900,
+    "event_code": 6,
+    "phase": "rest"
+  },
+  {
+    "onset": 112.645,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 13,
+    "trial_list": "7",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2500,
+    "event_code": 7,
+    "phase": "fixation"
+  },
+  {
+    "onset": 114.645,
+    "duration": 4.0,
+    "description": "event_7",
+    "trial_count": 13,
+    "trial_list": "7",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2500,
+    "event_code": 7,
+    "phase": "imagery"
+  },
+  {
+    "onset": 118.645,
+    "duration": 2.5,
+    "description": "rest",
+    "trial_count": 13,
+    "trial_list": "7",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2500,
+    "event_code": 7,
+    "phase": "rest"
+  },
+  {
+    "onset": 118.812,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 14,
+    "trial_list": "3",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 4000,
+    "event_code": 7,
+    "phase": "fixation"
+  },
+  {
+    "onset": 120.812,
+    "duration": 4.0,
+    "description": "event_7",
+    "trial_count": 14,
+    "trial_list": "3",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 4000,
+    "event_code": 7,
+    "phase": "imagery"
+  },
+  {
+    "onset": 124.812,
+    "duration": 4.0,
+    "description": "rest",
+    "trial_count": 14,
+    "trial_list": "3",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 4000,
+    "event_code": 7,
+    "phase": "rest"
+  },
+  {
+    "onset": 126.046,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 15,
+    "trial_list": "4",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3000,
+    "event_code": 8,
+    "phase": "fixation"
+  },
+  {
+    "onset": 128.046,
+    "duration": 4.0,
+    "description": "event_8",
+    "trial_count": 15,
+    "trial_list": "4",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3000,
+    "event_code": 8,
+    "phase": "imagery"
+  },
+  {
+    "onset": 132.046,
+    "duration": 3.0,
+    "description": "rest",
+    "trial_count": 15,
+    "trial_list": "4",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3000,
+    "event_code": 8,
+    "phase": "rest"
+  },
+  {
+    "onset": 132.196,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 16,
+    "trial_list": "5",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2500,
+    "event_code": 8,
+    "phase": "fixation"
+  },
+  {
+    "onset": 134.196,
+    "duration": 4.0,
+    "description": "event_8",
+    "trial_count": 16,
+    "trial_list": "5",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2500,
+    "event_code": 8,
+    "phase": "imagery"
+  },
+  {
+    "onset": 138.196,
+    "duration": 2.5,
+    "description": "rest",
+    "trial_count": 16,
+    "trial_list": "5",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2500,
+    "event_code": 8,
+    "phase": "rest"
+  },
+  {
+    "onset": 139.745,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 17,
+    "trial_list": "6",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3000,
+    "event_code": 9,
+    "phase": "fixation"
+  },
+  {
+    "onset": 141.745,
+    "duration": 4.0,
+    "description": "event_9",
+    "trial_count": 17,
+    "trial_list": "6",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3000,
+    "event_code": 9,
+    "phase": "imagery"
+  },
+  {
+    "onset": 145.745,
+    "duration": 3.0,
+    "description": "rest",
+    "trial_count": 17,
+    "trial_list": "6",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3000,
+    "event_code": 9,
+    "phase": "rest"
+  },
+  {
+    "onset": 145.911,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 18,
+    "trial_list": "2",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3100,
+    "event_code": 9,
+    "phase": "fixation"
+  },
+  {
+    "onset": 147.911,
+    "duration": 4.0,
+    "description": "event_9",
+    "trial_count": 18,
+    "trial_list": "2",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3100,
+    "event_code": 9,
+    "phase": "imagery"
+  },
+  {
+    "onset": 151.911,
+    "duration": 3.1,
+    "description": "rest",
+    "trial_count": 18,
+    "trial_list": "2",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3100,
+    "event_code": 9,
+    "phase": "rest"
+  },
+  {
+    "onset": 153.395,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 19,
+    "trial_list": "9",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3900,
+    "event_code": 10,
+    "phase": "fixation"
+  },
+  {
+    "onset": 155.395,
+    "duration": 4.0,
+    "description": "event_10",
+    "trial_count": 19,
+    "trial_list": "9",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3900,
+    "event_code": 10,
+    "phase": "imagery"
+  },
+  {
+    "onset": 159.395,
+    "duration": 3.9,
+    "description": "rest",
+    "trial_count": 19,
+    "trial_list": "9",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3900,
+    "event_code": 10,
+    "phase": "rest"
+  },
+  {
+    "onset": 159.562,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 20,
+    "trial_list": "10",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2900,
+    "event_code": 10,
+    "phase": "fixation"
+  },
+  {
+    "onset": 161.562,
+    "duration": 4.0,
+    "description": "event_10",
+    "trial_count": 20,
+    "trial_list": "10",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2900,
+    "event_code": 10,
+    "phase": "imagery"
+  },
+  {
+    "onset": 165.562,
+    "duration": 2.9,
+    "description": "rest",
+    "trial_count": 20,
+    "trial_list": "10",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2900,
+    "event_code": 10,
+    "phase": "rest"
+  },
+  {
+    "onset": 167.561,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 21,
+    "trial_list": "7",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3700,
+    "event_code": 11,
+    "phase": "fixation"
+  },
+  {
+    "onset": 169.561,
+    "duration": 4.0,
+    "description": "event_11",
+    "trial_count": 21,
+    "trial_list": "7",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3700,
+    "event_code": 11,
+    "phase": "imagery"
+  },
+  {
+    "onset": 173.561,
+    "duration": 3.7,
+    "description": "rest",
+    "trial_count": 21,
+    "trial_list": "7",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3700,
+    "event_code": 11,
+    "phase": "rest"
+  },
+  {
+    "onset": 173.727,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 22,
+    "trial_list": "5",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3000,
+    "event_code": 11,
+    "phase": "fixation"
+  },
+  {
+    "onset": 175.727,
+    "duration": 4.0,
+    "description": "event_11",
+    "trial_count": 22,
+    "trial_list": "5",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3000,
+    "event_code": 11,
+    "phase": "imagery"
+  },
+  {
+    "onset": 179.727,
+    "duration": 3.0,
+    "description": "rest",
+    "trial_count": 22,
+    "trial_list": "5",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3000,
+    "event_code": 11,
+    "phase": "rest"
+  },
+  {
+    "onset": 182.161,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 23,
+    "trial_list": "10",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3400,
+    "event_code": 12,
+    "phase": "fixation"
+  },
+  {
+    "onset": 184.161,
+    "duration": 4.0,
+    "description": "event_12",
+    "trial_count": 23,
+    "trial_list": "10",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3400,
+    "event_code": 12,
+    "phase": "imagery"
+  },
+  {
+    "onset": 188.161,
+    "duration": 3.4,
+    "description": "rest",
+    "trial_count": 23,
+    "trial_list": "10",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3400,
+    "event_code": 12,
+    "phase": "rest"
+  },
+  {
+    "onset": 188.345,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 24,
+    "trial_list": "8",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 4000,
+    "event_code": 12,
+    "phase": "fixation"
+  },
+  {
+    "onset": 190.345,
+    "duration": 4.0,
+    "description": "event_12",
+    "trial_count": 24,
+    "trial_list": "8",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 4000,
+    "event_code": 12,
+    "phase": "imagery"
+  },
+  {
+    "onset": 194.345,
+    "duration": 4.0,
+    "description": "rest",
+    "trial_count": 24,
+    "trial_list": "8",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 4000,
+    "event_code": 12,
+    "phase": "rest"
+  },
+  {
+    "onset": 196.961,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 25,
+    "trial_list": "9",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3000,
+    "event_code": 13,
+    "phase": "fixation"
+  },
+  {
+    "onset": 198.961,
+    "duration": 4.0,
+    "description": "event_13",
+    "trial_count": 25,
+    "trial_list": "9",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3000,
+    "event_code": 13,
+    "phase": "imagery"
+  },
+  {
+    "onset": 202.961,
+    "duration": 3.0,
+    "description": "rest",
+    "trial_count": 25,
+    "trial_list": "9",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3000,
+    "event_code": 13,
+    "phase": "rest"
+  },
+  {
+    "onset": 203.128,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 26,
+    "trial_list": "6",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2600,
+    "event_code": 13,
+    "phase": "fixation"
+  },
+  {
+    "onset": 205.128,
+    "duration": 4.0,
+    "description": "event_13",
+    "trial_count": 26,
+    "trial_list": "6",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2600,
+    "event_code": 13,
+    "phase": "imagery"
+  },
+  {
+    "onset": 209.128,
+    "duration": 2.6,
+    "description": "rest",
+    "trial_count": 26,
+    "trial_list": "6",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2600,
+    "event_code": 13,
+    "phase": "rest"
+  },
+  {
+    "onset": 210.26,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 27,
+    "trial_list": "4",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 4000,
+    "event_code": 14,
+    "phase": "fixation"
+  },
+  {
+    "onset": 212.26,
+    "duration": 4.0,
+    "description": "event_14",
+    "trial_count": 27,
+    "trial_list": "4",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 4000,
+    "event_code": 14,
+    "phase": "imagery"
+  },
+  {
+    "onset": 216.26,
+    "duration": 4.0,
+    "description": "rest",
+    "trial_count": 27,
+    "trial_list": "4",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 4000,
+    "event_code": 14,
+    "phase": "rest"
+  },
+  {
+    "onset": 216.427,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 28,
+    "trial_list": "1",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3900,
+    "event_code": 14,
+    "phase": "fixation"
+  },
+  {
+    "onset": 218.427,
+    "duration": 4.0,
+    "description": "event_14",
+    "trial_count": 28,
+    "trial_list": "1",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3900,
+    "event_code": 14,
+    "phase": "imagery"
+  },
+  {
+    "onset": 222.427,
+    "duration": 3.9,
+    "description": "rest",
+    "trial_count": 28,
+    "trial_list": "1",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3900,
+    "event_code": 14,
+    "phase": "rest"
+  },
+  {
+    "onset": 225.194,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 29,
+    "trial_list": "3",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3700,
+    "event_code": 15,
+    "phase": "fixation"
+  },
+  {
+    "onset": 227.194,
+    "duration": 4.0,
+    "description": "event_15",
+    "trial_count": 29,
+    "trial_list": "3",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3700,
+    "event_code": 15,
+    "phase": "imagery"
+  },
+  {
+    "onset": 231.194,
+    "duration": 3.7,
+    "description": "rest",
+    "trial_count": 29,
+    "trial_list": "3",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3700,
+    "event_code": 15,
+    "phase": "rest"
+  },
+  {
+    "onset": 231.36,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 30,
+    "trial_list": "2",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3300,
+    "event_code": 15,
+    "phase": "fixation"
+  },
+  {
+    "onset": 233.36,
+    "duration": 4.0,
+    "description": "event_15",
+    "trial_count": 30,
+    "trial_list": "2",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3300,
+    "event_code": 15,
+    "phase": "imagery"
+  },
+  {
+    "onset": 237.36,
+    "duration": 3.3,
+    "description": "rest",
+    "trial_count": 30,
+    "trial_list": "2",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3300,
+    "event_code": 15,
+    "phase": "rest"
+  },
+  {
+    "onset": 239.044,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 31,
+    "trial_list": "4",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3300,
+    "event_code": 16,
+    "phase": "fixation"
+  },
+  {
+    "onset": 241.044,
+    "duration": 4.0,
+    "description": "event_16",
+    "trial_count": 31,
+    "trial_list": "4",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3300,
+    "event_code": 16,
+    "phase": "imagery"
+  },
+  {
+    "onset": 245.044,
+    "duration": 3.3,
+    "description": "rest",
+    "trial_count": 31,
+    "trial_list": "4",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3300,
+    "event_code": 16,
+    "phase": "rest"
+  },
+  {
+    "onset": 245.21,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 32,
+    "trial_list": "6",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2600,
+    "event_code": 16,
+    "phase": "fixation"
+  },
+  {
+    "onset": 247.21,
+    "duration": 4.0,
+    "description": "event_16",
+    "trial_count": 32,
+    "trial_list": "6",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2600,
+    "event_code": 16,
+    "phase": "imagery"
+  },
+  {
+    "onset": 251.21,
+    "duration": 2.6,
+    "description": "rest",
+    "trial_count": 32,
+    "trial_list": "6",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2600,
+    "event_code": 16,
+    "phase": "rest"
+  },
+  {
+    "onset": 252.327,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 33,
+    "trial_list": "2",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3200,
+    "event_code": 17,
+    "phase": "fixation"
+  },
+  {
+    "onset": 254.327,
+    "duration": 4.0,
+    "description": "event_17",
+    "trial_count": 33,
+    "trial_list": "2",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3200,
+    "event_code": 17,
+    "phase": "imagery"
+  },
+  {
+    "onset": 258.327,
+    "duration": 3.2,
+    "description": "rest",
+    "trial_count": 33,
+    "trial_list": "2",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3200,
+    "event_code": 17,
+    "phase": "rest"
+  },
+  {
+    "onset": 258.477,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 34,
+    "trial_list": "5",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2800,
+    "event_code": 17,
+    "phase": "fixation"
+  },
+  {
+    "onset": 260.477,
+    "duration": 4.0,
+    "description": "event_17",
+    "trial_count": 34,
+    "trial_list": "5",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2800,
+    "event_code": 17,
+    "phase": "imagery"
+  },
+  {
+    "onset": 264.477,
+    "duration": 2.8,
+    "description": "rest",
+    "trial_count": 34,
+    "trial_list": "5",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2800,
+    "event_code": 17,
+    "phase": "rest"
+  },
+  {
+    "onset": 266.126,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 35,
+    "trial_list": "1",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3500,
+    "event_code": 18,
+    "phase": "fixation"
+  },
+  {
+    "onset": 268.126,
+    "duration": 4.0,
+    "description": "event_18",
+    "trial_count": 35,
+    "trial_list": "1",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3500,
+    "event_code": 18,
+    "phase": "imagery"
+  },
+  {
+    "onset": 272.126,
+    "duration": 3.5,
+    "description": "rest",
+    "trial_count": 35,
+    "trial_list": "1",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3500,
+    "event_code": 18,
+    "phase": "rest"
+  },
+  {
+    "onset": 272.326,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 36,
+    "trial_list": "9",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3400,
+    "event_code": 18,
+    "phase": "fixation"
+  },
+  {
+    "onset": 274.326,
+    "duration": 4.0,
+    "description": "event_18",
+    "trial_count": 36,
+    "trial_list": "9",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3400,
+    "event_code": 18,
+    "phase": "imagery"
+  },
+  {
+    "onset": 278.326,
+    "duration": 3.4,
+    "description": "rest",
+    "trial_count": 36,
+    "trial_list": "9",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3400,
+    "event_code": 18,
+    "phase": "rest"
+  },
+  {
+    "onset": 280.093,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 37,
+    "trial_list": "10",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2900,
+    "event_code": 19,
+    "phase": "fixation"
+  },
+  {
+    "onset": 282.093,
+    "duration": 4.0,
+    "description": "event_19",
+    "trial_count": 37,
+    "trial_list": "10",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2900,
+    "event_code": 19,
+    "phase": "imagery"
+  },
+  {
+    "onset": 286.093,
+    "duration": 2.9,
+    "description": "rest",
+    "trial_count": 37,
+    "trial_list": "10",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2900,
+    "event_code": 19,
+    "phase": "rest"
+  },
+  {
+    "onset": 286.26,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 38,
+    "trial_list": "8",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3000,
+    "event_code": 19,
+    "phase": "fixation"
+  },
+  {
+    "onset": 288.26,
+    "duration": 4.0,
+    "description": "event_19",
+    "trial_count": 38,
+    "trial_list": "8",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3000,
+    "event_code": 19,
+    "phase": "imagery"
+  },
+  {
+    "onset": 292.26,
+    "duration": 3.0,
+    "description": "rest",
+    "trial_count": 38,
+    "trial_list": "8",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 3000,
+    "event_code": 19,
+    "phase": "rest"
+  },
+  {
+    "onset": 294.909,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 39,
+    "trial_list": "3",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2800,
+    "event_code": 20,
+    "phase": "fixation"
+  },
+  {
+    "onset": 296.909,
+    "duration": 4.0,
+    "description": "event_20",
+    "trial_count": 39,
+    "trial_list": "3",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2800,
+    "event_code": 20,
+    "phase": "imagery"
+  },
+  {
+    "onset": 300.909,
+    "duration": 2.8,
+    "description": "rest",
+    "trial_count": 39,
+    "trial_list": "3",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 2800,
+    "event_code": 20,
+    "phase": "rest"
+  },
+  {
+    "onset": 301.076,
+    "duration": 2.0,
+    "description": "fixation",
+    "trial_count": 40,
+    "trial_list": "7",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 4000,
+    "event_code": 20,
+    "phase": "fixation"
+  },
+  {
+    "onset": 303.076,
+    "duration": 4.0,
+    "description": "event_20",
+    "trial_count": 40,
+    "trial_list": "7",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 4000,
+    "event_code": 20,
+    "phase": "imagery"
+  },
+  {
+    "onset": 307.076,
+    "duration": 4.0,
+    "description": "rest",
+    "trial_count": 40,
+    "trial_list": "7",
+    "image": null,
+    "fixation_ms": 2000,
+    "stimulus_ms": 4000,
+    "random_time_ms": 4000,
+    "event_code": 20,
+    "phase": "rest"
+  },
+  {
+    "onset": 308.642,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 21,
+    "phase": "fixation"
+  },
+  {
+    "onset": 310.642,
+    "duration": 4.0,
+    "description": "event_21",
+    "event_code": 21,
+    "phase": "imagery"
+  },
+  {
+    "onset": 314.642,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 21,
+    "phase": "rest"
+  },
+  {
+    "onset": 314.792,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 21,
+    "phase": "fixation"
+  },
+  {
+    "onset": 316.792,
+    "duration": 4.0,
+    "description": "event_21",
+    "event_code": 21,
+    "phase": "imagery"
+  },
+  {
+    "onset": 320.792,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 21,
+    "phase": "rest"
+  },
+  {
+    "onset": 323.209,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 22,
+    "phase": "fixation"
+  },
+  {
+    "onset": 325.209,
+    "duration": 4.0,
+    "description": "event_22",
+    "event_code": 22,
+    "phase": "imagery"
+  },
+  {
+    "onset": 329.209,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 22,
+    "phase": "rest"
+  },
+  {
+    "onset": 329.375,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 22,
+    "phase": "fixation"
+  },
+  {
+    "onset": 331.375,
+    "duration": 4.0,
+    "description": "event_22",
+    "event_code": 22,
+    "phase": "imagery"
+  },
+  {
+    "onset": 335.375,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 22,
+    "phase": "rest"
+  },
+  {
+    "onset": 337.075,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 23,
+    "phase": "fixation"
+  },
+  {
+    "onset": 339.075,
+    "duration": 4.0,
+    "description": "event_23",
+    "event_code": 23,
+    "phase": "imagery"
+  },
+  {
+    "onset": 343.075,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 23,
+    "phase": "rest"
+  },
+  {
+    "onset": 343.242,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 23,
+    "phase": "fixation"
+  },
+  {
+    "onset": 345.242,
+    "duration": 4.0,
+    "description": "event_23",
+    "event_code": 23,
+    "phase": "imagery"
+  },
+  {
+    "onset": 349.242,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 23,
+    "phase": "rest"
+  },
+  {
+    "onset": 351.342,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 24,
+    "phase": "fixation"
+  },
+  {
+    "onset": 353.342,
+    "duration": 4.0,
+    "description": "event_24",
+    "event_code": 24,
+    "phase": "imagery"
+  },
+  {
+    "onset": 357.342,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 24,
+    "phase": "rest"
+  },
+  {
+    "onset": 357.509,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 24,
+    "phase": "fixation"
+  },
+  {
+    "onset": 359.509,
+    "duration": 4.0,
+    "description": "event_24",
+    "event_code": 24,
+    "phase": "imagery"
+  },
+  {
+    "onset": 363.509,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 24,
+    "phase": "rest"
+  },
+  {
+    "onset": 366.242,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 25,
+    "phase": "fixation"
+  },
+  {
+    "onset": 368.242,
+    "duration": 4.0,
+    "description": "event_25",
+    "event_code": 25,
+    "phase": "imagery"
+  },
+  {
+    "onset": 372.242,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 25,
+    "phase": "rest"
+  },
+  {
+    "onset": 372.409,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 25,
+    "phase": "fixation"
+  },
+  {
+    "onset": 374.409,
+    "duration": 4.0,
+    "description": "event_25",
+    "event_code": 25,
+    "phase": "imagery"
+  },
+  {
+    "onset": 378.409,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 25,
+    "phase": "rest"
+  },
+  {
+    "onset": 380.058,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 26,
+    "phase": "fixation"
+  },
+  {
+    "onset": 382.058,
+    "duration": 4.0,
+    "description": "event_26",
+    "event_code": 26,
+    "phase": "imagery"
+  },
+  {
+    "onset": 386.058,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 26,
+    "phase": "rest"
+  },
+  {
+    "onset": 386.224,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 26,
+    "phase": "fixation"
+  },
+  {
+    "onset": 388.224,
+    "duration": 4.0,
+    "description": "event_26",
+    "event_code": 26,
+    "phase": "imagery"
+  },
+  {
+    "onset": 392.224,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 26,
+    "phase": "rest"
+  },
+  {
+    "onset": 393.491,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 27,
+    "phase": "fixation"
+  },
+  {
+    "onset": 395.491,
+    "duration": 4.0,
+    "description": "event_27",
+    "event_code": 27,
+    "phase": "imagery"
+  },
+  {
+    "onset": 399.491,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 27,
+    "phase": "rest"
+  },
+  {
+    "onset": 399.675,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 27,
+    "phase": "fixation"
+  },
+  {
+    "onset": 401.675,
+    "duration": 4.0,
+    "description": "event_27",
+    "event_code": 27,
+    "phase": "imagery"
+  },
+  {
+    "onset": 405.675,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 27,
+    "phase": "rest"
+  },
+  {
+    "onset": 408.441,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 28,
+    "phase": "fixation"
+  },
+  {
+    "onset": 410.441,
+    "duration": 4.0,
+    "description": "event_28",
+    "event_code": 28,
+    "phase": "imagery"
+  },
+  {
+    "onset": 414.441,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 28,
+    "phase": "rest"
+  },
+  {
+    "onset": 414.607,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 28,
+    "phase": "fixation"
+  },
+  {
+    "onset": 416.607,
+    "duration": 4.0,
+    "description": "event_28",
+    "event_code": 28,
+    "phase": "imagery"
+  },
+  {
+    "onset": 420.607,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 28,
+    "phase": "rest"
+  },
+  {
+    "onset": 423.241,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 29,
+    "phase": "fixation"
+  },
+  {
+    "onset": 425.241,
+    "duration": 4.0,
+    "description": "event_29",
+    "event_code": 29,
+    "phase": "imagery"
+  },
+  {
+    "onset": 429.241,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 29,
+    "phase": "rest"
+  },
+  {
+    "onset": 429.407,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 29,
+    "phase": "fixation"
+  },
+  {
+    "onset": 431.407,
+    "duration": 4.0,
+    "description": "event_29",
+    "event_code": 29,
+    "phase": "imagery"
+  },
+  {
+    "onset": 435.407,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 29,
+    "phase": "rest"
+  },
+  {
+    "onset": 437.807,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 30,
+    "phase": "fixation"
+  },
+  {
+    "onset": 439.807,
+    "duration": 4.0,
+    "description": "event_30",
+    "event_code": 30,
+    "phase": "imagery"
+  },
+  {
+    "onset": 443.807,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 30,
+    "phase": "rest"
+  },
+  {
+    "onset": 443.974,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 30,
+    "phase": "fixation"
+  },
+  {
+    "onset": 445.974,
+    "duration": 4.0,
+    "description": "event_30",
+    "event_code": 30,
+    "phase": "imagery"
+  },
+  {
+    "onset": 449.974,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 30,
+    "phase": "rest"
+  },
+  {
+    "onset": 451.957,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 31,
+    "phase": "fixation"
+  },
+  {
+    "onset": 453.957,
+    "duration": 4.0,
+    "description": "event_31",
+    "event_code": 31,
+    "phase": "imagery"
+  },
+  {
+    "onset": 457.957,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 31,
+    "phase": "rest"
+  },
+  {
+    "onset": 458.123,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 31,
+    "phase": "fixation"
+  },
+  {
+    "onset": 460.123,
+    "duration": 4.0,
+    "description": "event_31",
+    "event_code": 31,
+    "phase": "imagery"
+  },
+  {
+    "onset": 464.123,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 31,
+    "phase": "rest"
+  },
+  {
+    "onset": 466.107,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 32,
+    "phase": "fixation"
+  },
+  {
+    "onset": 468.107,
+    "duration": 4.0,
+    "description": "event_32",
+    "event_code": 32,
+    "phase": "imagery"
+  },
+  {
+    "onset": 472.107,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 32,
+    "phase": "rest"
+  },
+  {
+    "onset": 472.29,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 32,
+    "phase": "fixation"
+  },
+  {
+    "onset": 474.29,
+    "duration": 4.0,
+    "description": "event_32",
+    "event_code": 32,
+    "phase": "imagery"
+  },
+  {
+    "onset": 478.29,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 32,
+    "phase": "rest"
+  },
+  {
+    "onset": 479.557,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 33,
+    "phase": "fixation"
+  },
+  {
+    "onset": 481.557,
+    "duration": 4.0,
+    "description": "event_33",
+    "event_code": 33,
+    "phase": "imagery"
+  },
+  {
+    "onset": 485.557,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 33,
+    "phase": "rest"
+  },
+  {
+    "onset": 485.723,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 33,
+    "phase": "fixation"
+  },
+  {
+    "onset": 487.723,
+    "duration": 4.0,
+    "description": "event_33",
+    "event_code": 33,
+    "phase": "imagery"
+  },
+  {
+    "onset": 491.723,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 33,
+    "phase": "rest"
+  },
+  {
+    "onset": 493.607,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 34,
+    "phase": "fixation"
+  },
+  {
+    "onset": 495.607,
+    "duration": 4.0,
+    "description": "event_34",
+    "event_code": 34,
+    "phase": "imagery"
+  },
+  {
+    "onset": 499.607,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 34,
+    "phase": "rest"
+  },
+  {
+    "onset": 499.756,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 34,
+    "phase": "fixation"
+  },
+  {
+    "onset": 501.756,
+    "duration": 4.0,
+    "description": "event_34",
+    "event_code": 34,
+    "phase": "imagery"
+  },
+  {
+    "onset": 505.756,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 34,
+    "phase": "rest"
+  },
+  {
+    "onset": 507.206,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 35,
+    "phase": "fixation"
+  },
+  {
+    "onset": 509.206,
+    "duration": 4.0,
+    "description": "event_35",
+    "event_code": 35,
+    "phase": "imagery"
+  },
+  {
+    "onset": 513.206,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 35,
+    "phase": "rest"
+  },
+  {
+    "onset": 513.373,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 35,
+    "phase": "fixation"
+  },
+  {
+    "onset": 515.373,
+    "duration": 4.0,
+    "description": "event_35",
+    "event_code": 35,
+    "phase": "imagery"
+  },
+  {
+    "onset": 519.373,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 35,
+    "phase": "rest"
+  },
+  {
+    "onset": 521.589,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 36,
+    "phase": "fixation"
+  },
+  {
+    "onset": 523.589,
+    "duration": 4.0,
+    "description": "event_36",
+    "event_code": 36,
+    "phase": "imagery"
+  },
+  {
+    "onset": 527.589,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 36,
+    "phase": "rest"
+  },
+  {
+    "onset": 527.756,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 36,
+    "phase": "fixation"
+  },
+  {
+    "onset": 529.756,
+    "duration": 4.0,
+    "description": "event_36",
+    "event_code": 36,
+    "phase": "imagery"
+  },
+  {
+    "onset": 533.756,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 36,
+    "phase": "rest"
+  },
+  {
+    "onset": 535.889,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 37,
+    "phase": "fixation"
+  },
+  {
+    "onset": 537.889,
+    "duration": 4.0,
+    "description": "event_37",
+    "event_code": 37,
+    "phase": "imagery"
+  },
+  {
+    "onset": 541.889,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 37,
+    "phase": "rest"
+  },
+  {
+    "onset": 542.055,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 37,
+    "phase": "fixation"
+  },
+  {
+    "onset": 544.055,
+    "duration": 4.0,
+    "description": "event_37",
+    "event_code": 37,
+    "phase": "imagery"
+  },
+  {
+    "onset": 548.055,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 37,
+    "phase": "rest"
+  },
+  {
+    "onset": 549.622,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 38,
+    "phase": "fixation"
+  },
+  {
+    "onset": 551.622,
+    "duration": 4.0,
+    "description": "event_38",
+    "event_code": 38,
+    "phase": "imagery"
+  },
+  {
+    "onset": 555.622,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 38,
+    "phase": "rest"
+  },
+  {
+    "onset": 555.789,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 38,
+    "phase": "fixation"
+  },
+  {
+    "onset": 557.789,
+    "duration": 4.0,
+    "description": "event_38",
+    "event_code": 38,
+    "phase": "imagery"
+  },
+  {
+    "onset": 561.789,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 38,
+    "phase": "rest"
+  },
+  {
+    "onset": 563.472,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 39,
+    "phase": "fixation"
+  },
+  {
+    "onset": 565.472,
+    "duration": 4.0,
+    "description": "event_39",
+    "event_code": 39,
+    "phase": "imagery"
+  },
+  {
+    "onset": 569.472,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 39,
+    "phase": "rest"
+  },
+  {
+    "onset": 569.639,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 39,
+    "phase": "fixation"
+  },
+  {
+    "onset": 571.639,
+    "duration": 4.0,
+    "description": "event_39",
+    "event_code": 39,
+    "phase": "imagery"
+  },
+  {
+    "onset": 575.639,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 39,
+    "phase": "rest"
+  },
+  {
+    "onset": 577.072,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 40,
+    "phase": "fixation"
+  },
+  {
+    "onset": 579.072,
+    "duration": 4.0,
+    "description": "event_40",
+    "event_code": 40,
+    "phase": "imagery"
+  },
+  {
+    "onset": 583.072,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 40,
+    "phase": "rest"
+  },
+  {
+    "onset": 583.255,
+    "duration": 2.0,
+    "description": "fixation",
+    "event_code": 40,
+    "phase": "fixation"
+  },
+  {
+    "onset": 585.255,
+    "duration": 4.0,
+    "description": "event_40",
+    "event_code": 40,
+    "phase": "imagery"
+  },
+  {
+    "onset": 589.255,
+    "duration": 1.0,
+    "description": "rest",
+    "event_code": 40,
+    "phase": "rest"
+  }
+]
