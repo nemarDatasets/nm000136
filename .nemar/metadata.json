@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "pipeline_stage": "enriched",
+  "pipeline_stage": "validated",
   "title": "Guttmann-Flury et al. 2025 (P300) — Dataset combining EEG, eye-tracking, and high-speed video for ocular activity analysis across BCI paradigms",
-  "description": "A multimodal neuroimaging dataset combining EEG, eye-tracking, and high-speed video recordings from 31 healthy participants performing a P300-based speller task across three sessions. The dataset comprises 2,520 trials of visual event-related potential data acquired at 1000 Hz using a 65-channel Neuroscan system (66 total channels including EOG and stimulus), designed to enable analysis of ocular activity patterns and their relationship to brain-computer interface performance across multiple BCI paradigms.",
-  "methods_description": "EEG data were acquired using a Neuroscan Quik-Cap 65-channel system with SynAmps2 amplifier at 1000 Hz sampling rate. The montage followed the standard 1005 electrode placement with 64 EEG channels, 1 EOG channel, and 1 stimulus channel (66 total channels). Reference electrode was placed at the right mastoid (M1) with ground at the forehead. Ag/AgCl sensors were used with online high-pass filtering (10 s time constant). Participants performed a row-column P300 speller task with 4L and 5L grid sizes in a synchronous, offline mode without feedback. Concurrent eye-tracking and high-speed video recordings captured ocular activity during the task.",
+  "description": "This dataset contains EEG recordings from 31 healthy participants performing a row/column P300 speller task, with three sessions per subject. It is the P300 portion of a multimodal Eye-BCI collection that also includes eye-tracking and high-speed video for ocular activity analysis across BCI paradigms. Recordings were made with a 64-channel EEG cap plus EOG, and target and non-target flash events are annotated with HED.",
+  "methods_description": "EEG was recorded with a Neuroscan Quik-Cap (64 EEG channels plus one EOG channel) and SynAmps2 amplifier at 1000 Hz, referenced to the right mastoid (M1) with a forehead ground. Participants used a visual row-column flash speller with 4L and 5L grid sizes in an offline, synchronous paradigm. The P300-4L default gives 40 trials per session, 2520 trials over 63 sessions.",
   "license": "CC0",
   "dataset_type": "derivative",
   "authors": {
@@ -18,31 +18,25 @@
       "term": "EEG"
     },
     {
-      "term": "Event-Related Potentials, P300",
-      "subject_scheme": "MeSH",
-      "scheme_uri": "https://id.nlm.nih.gov/mesh/",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D018913"
+      "term": "P300"
     },
     {
-      "term": "brain-computer interfaces"
+      "term": "event-related potentials"
+    },
+    {
+      "term": "brain-computer interface"
+    },
+    {
+      "term": "speller"
     },
     {
       "term": "eye tracking"
     },
     {
-      "term": "speller paradigm"
+      "term": "Electroencephalography"
     },
     {
-      "term": "multimodal neuroimaging"
-    },
-    {
-      "term": "healthy"
-    },
-    {
-      "term": "communication"
-    },
-    {
-      "term": "high-speed video"
+      "term": "Brain-Computer Interfaces"
     }
   ],
   "related_identifiers": [
@@ -78,7 +72,7 @@
     "eeg"
   ],
   "sizes": [
-    "43.7 GB (378 files)"
+    "40.73 GB (378 files)"
   ],
   "formats": [
     ".avi",
