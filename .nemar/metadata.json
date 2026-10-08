@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Guttmann-Flury et al. 2025 (P300) — Dataset combining EEG, eye-tracking, and high-speed video for ocular activity analysis across BCI paradigms",
-  "description": "This dataset contains EEG recordings from 31 healthy participants performing a row/column P300 speller task, with three sessions per subject. It is the P300 portion of a multimodal Eye-BCI collection that also includes eye-tracking and high-speed video for ocular activity analysis across BCI paradigms. Recordings were made with a 64-channel EEG cap plus EOG, and target and non-target flash events are annotated with HED.",
-  "methods_description": "EEG was recorded with a Neuroscan Quik-Cap (64 EEG channels plus one EOG channel) and SynAmps2 amplifier at 1000 Hz, referenced to the right mastoid (M1) with a forehead ground. Participants used a visual row-column flash speller with 4L and 5L grid sizes in an offline, synchronous paradigm. The P300-4L default gives 40 trials per session, 2520 trials over 63 sessions.",
+  "description": "This dataset contains 64-channel EEG recorded at 1000 Hz from 31 healthy participants, each across three sessions, during a row/column P300 speller task. It is the P300 component of a multimodal collection that also includes eye-tracking and high-speed video for ocular activity analysis across BCI paradigms. Target and non-target flash events are annotated with HED, and the data are organized in BIDS format via MOABB.",
+  "methods_description": "EEG was recorded with a Neuroscan Quik-Cap (65 channels) and SynAmps2 amplifier at 1000 Hz, referenced to the right mastoid (M1) with a forehead ground. Participants performed a visual row-column P300 speller with 4L and 5L grid sizes, giving 40 trials per session in the default 4L configuration, offline and without feedback.",
   "license": "CC0",
   "dataset_type": "derivative",
   "authors": {
@@ -21,22 +21,20 @@
       "term": "P300"
     },
     {
-      "term": "event-related potentials"
+      "term": "Event-Related Potentials, P300",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D018913"
     },
     {
-      "term": "brain-computer interface"
+      "term": "Brain-Computer Interfaces",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D062207"
     },
     {
       "term": "speller"
     },
     {
-      "term": "eye tracking"
-    },
-    {
-      "term": "Electroencephalography"
-    },
-    {
-      "term": "Brain-Computer Interfaces"
+      "term": "eye-tracking"
     }
   ],
   "related_identifiers": [
@@ -87,5 +85,5 @@
     ".yaml",
     ".yml"
   ],
-  "source_hash": "e5b5b4a35f0473ad9216f35b673e916fd2c7f7a3b924bc2959c0d39736d8db28"
+  "source_hash": "01a954b2445dcd3489db2f69d0cbb66a163582d7acf3cb45f317b10c653aa50e"
 }
